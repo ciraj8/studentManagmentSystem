@@ -1,4 +1,4 @@
-this is student managment system created for BIT sem2 project in AVID College
+this is a laravel based student managment system created for BIT sem2 project in AVID College.
 ![image](https://user-images.githubusercontent.com/34932208/65276009-557a9e80-db40-11e9-9bad-39eaa6a4fa08.png)
 ![image](https://user-images.githubusercontent.com/34932208/65276334-efdae200-db40-11e9-9159-2fa3640df278.png)
 ![image](https://user-images.githubusercontent.com/34932208/65276518-52cc7900-db41-11e9-8b7a-7fadc99034a9.png)
